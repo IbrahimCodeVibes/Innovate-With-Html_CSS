@@ -20,8 +20,8 @@ It’s about bringing **creativity to life** through logic, precision, and desig
 
 ## 🛠️ Tech Stack
 - HTML5  
-- CSS3 (Animations & Transforms)  
-- JavaScript (for interaction, optional)  
+- CSS3  
+- JavaScript 
 
 ---
 
